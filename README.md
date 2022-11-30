@@ -1,4 +1,4 @@
-# MOU-infant-mortality
+# MOA-infant-mortality
 Investigating variation in infant mortality rates among US states using the Measures of America dataset
 
 <p align="center" width="100%"><img width="700" alt="bar_graph_infant_mortality_OECD" src="https://user-images.githubusercontent.com/112728848/202870656-e2ca2553-19bb-488a-b747-85330030ac0e.png"></p>

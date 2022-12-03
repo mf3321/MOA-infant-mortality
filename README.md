@@ -10,3 +10,5 @@ I chose to use a [Measure of America](https://measureofamerica.org/) dataset. Th
 As I write in my conclusion, my analyses are fairly rudimentary and are being used to explore what are highly complex relationships. Even now, I can think of a number of ways in which the analyses are insufficient. All the same, the assignment was a great introduction to using data to conduct investigative research.
 
 <p align="center" width="100%"><img width="598" alt="comparison-boxplots" src="https://user-images.githubusercontent.com/112728848/202869385-5b44c962-a370-44f6-8cea-8e3f86d7673f.png"></p>
+
+Copyright (c) 2022 May Fung
